@@ -7,3 +7,4 @@
 |03|중첩 조건문 (Ch04); String, NLTK (Ch05)|[Link](/week_03.ipynb)|
 |04|String with NLTK (Ch05); 반복문 (Ch06)|[Link](/week_04.ipynb)|
 |05|반복문 while (Ch06); NLTK corpus (gutenberg, brown)|[Link](/week_05.ipynb)|
+|06|NLTK lnaugural, Tuple & List (Ch07)|[Link](/week_06.ipynb)|
