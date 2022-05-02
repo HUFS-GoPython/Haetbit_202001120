@@ -9,3 +9,5 @@
 |05|반복문 while (Ch06); NLTK corpus (gutenberg, brown)|[Link](/week_05.ipynb)|
 |06|NLTK lnaugural, Tuple & List (Ch07)|[Link](/week_06.ipynb)|
 |07|함수 (Ch08); Brown Corpus|[Link](/week_07.ipynb)|
+|08|**Midterm**|-|
+|09|Dictionary & Set|[Link](/week_09.ipynb)|
