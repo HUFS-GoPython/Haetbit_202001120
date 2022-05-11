@@ -11,3 +11,4 @@
 |07|함수 (Ch08); Brown Corpus|[Link](/week_07.ipynb)|
 |08|**Midterm**|-|
 |09|Dictionary & Set|[Link](/week_09.ipynb)|
+|10|객체와 클래스|[Link](/week_10.ipynb)|
