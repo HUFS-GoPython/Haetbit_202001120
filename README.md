@@ -14,3 +14,5 @@
 |10|객체와 클래스|[Link](/week_10.ipynb)|
 |11|객체II|[Link](/week_11.ipynb)|
 |12|매직 메소드, NamedTuple, DataClass, asterisk|[Link](/week_12.ipynb)|
+|13|-|-|
+|14|함수II, 예외 처리|[Link](/week_14.ipynb)|
